@@ -15,12 +15,6 @@ step3: install dependencies
 2) Material icons - npm install @material-ui/icons
 3) axios - npm install axios
 
-## Mildstones Achived
-1) Designed Static Page using HTML and CSS Only
-2) Tried to Write Clean Code
-3) Used Comments
-4) Checked responsiveness for screen size less than 1000px
-
 ## Approach
 1) Created Github Respository
 2) Collected Resources
