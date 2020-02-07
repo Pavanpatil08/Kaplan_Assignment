@@ -1,6 +1,5 @@
 # Kaplan-assignment
 
-## This is Single Staic Page given by Fincity
 ## Technology used
 
 1) Reactjs
